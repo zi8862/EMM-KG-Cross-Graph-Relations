@@ -1,0 +1,10 @@
+neo4j
+numpy
+scikit-learn
+gensim
+transformers
+torch
+requests
+matplotlib
+pandas
+rdflib
